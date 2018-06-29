@@ -1,6 +1,6 @@
 # Equities vs SP 500 Index
 Choose five distinct equities or assets in different classes. 
-Five Equities chosen: Amazon stock price, Gold price, Bitcoin price, Oil price and Treasury stock price.
+The five equities include: Amazon stock price, Gold price, Bitcoin price, Oil price and Treasury stock price.
 A regression analysis on each of the asset against the S&amp;P 500 will determine if there is any correlation. 
 Extract data from Quandl and Tiingo
 
